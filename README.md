@@ -1,1 +1,1 @@
-the project repository includes all the basics python programming small project releated to bioinformatics.
+The project repository includes  python programming small project releated to bioinformatics.
